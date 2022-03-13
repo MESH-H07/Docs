@@ -1,6 +1,18 @@
 # MESH22 / H07
 ### Projektname: Familiar
 
+## Inhaltsverzeichnis
+- [Wer sind wir?](#1-wer-sind-wir)
+- [Was ist das Problem?](#2-was-ist-das-problem)
+- [Wie wollen wir es angehen?](#3-wie-wollen-wir-es-angehen)
+    - [Mentoren](#31-mentoren)
+    - [Events](#32-events)
+- [Techstack](#4-techstack)
+- [Implementierung](#5-implementierung)
+- [Konkurrenzanalyse](#6-konkurrenzanalyse)
+- [Finanzierung](#7-finanzierung)
+- [Marketingstrategie](#8-marketingstrategie)
+
 ## 1. Wer sind wir?
 Wir sind ein Team aus fünf Karlsruher Informatikern, welche an der DHBW Karlsruhe gerade ihr 4. Semester antreten. \
 
@@ -46,7 +58,7 @@ Wir sehen für Einwanderer hauptsächlich folgende drei Hürden:
   2) Bürokratie
   3) Alltag und Zusammenleben
 
-#### Mentoren
+### 3.1. Mentoren
 Das sind allesamt große und wichtige Themen!
 Unsere Idee ist es deshalb, dass sog. "Mentoren", also entweder Einheimische oder bereits andere erfolgreich integrierte Migranten (möglicherweise mit ähnlichem Hintergrund), ihre Hilfe in diesen Bereichen anbieten, um es den Hilfesuchenden einfacher zu machen. Gerade letztere spielen für Neuankommende sicherlich eine wichtige Rolle, weil sie oft die gleiche Sprache sprechen und sich direkt einige Gemeinsamkeiten finden.
 
@@ -56,7 +68,7 @@ Besonders für Alltagsthemen wie öffentlichen Transport, Einkauf etc. sind jedo
 
 Der Austausch kann auch App-intern in digitaler Form durch Chats stattfinden.
 
-#### Events
+### 3.2. Events
 Die Mentoren sollen aber nicht der einzige soziale Anknüpfpunkt sein! Ferner gibt es eine sog. Community-Page, auf der gewisse Leute (bspw. Mentoren) Events posten können,
 an denen gerne teilgenommen werden darf. Häufig sind das speziell auf Inklusion ausgelegte Veranstaltungen. Dabei kann es sich um sämtliche Formen von ungezwungenen Get-Togethers handeln, egal ob es nun ein Spieleabend, Kochveranstaltung, Spaziergang, Sommertag am See oder gemeinschaftliches Kicken ist!
 
