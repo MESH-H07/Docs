@@ -136,3 +136,7 @@ das Program näher zu bringen.
 
 ## 9. Weitere Ressourcen
 - [Pitchdeck](https://docs.google.com/presentation/d/1Vy51eW4PTtHmCKXb5xihomuwhy_h544h445aNsePjCk/edit?usp=sharing)
+
+- [Figma](https://www.figma.com/file/qxbdt9jJVTIHky4o3EQaTT/)
+- [Frontend](https://github.com/MESH-H07/Frontend)
+- [Backend](https://github.com/MESH-H07/Backend)
