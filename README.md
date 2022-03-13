@@ -12,6 +12,7 @@
 - [Konkurrenzanalyse](#6-konkurrenzanalyse)
 - [Finanzierung](#7-finanzierung)
 - [Marketingstrategie](#8-marketingstrategie)
+- [Weitere Ressourcen](#9-weitere-ressourcen)
 
 ## 1. Wer sind wir?
 Wir sind ein Team aus fünf Karlsruher Informatikern, welche an der DHBW Karlsruhe gerade ihr 4. Semester antreten. \
@@ -132,3 +133,6 @@ Sprachrohr zu Mentoren und anderen sozialen Organisationen.
 
 Aber auch Erstanlaufstellen oder zentrale soziale Einrichtungen sollen dazu genutzt werden, gerade den Geflüchteten
 das Program näher zu bringen.
+
+## 9. Weitere Ressourcen
+- [Pitchdeck](https://docs.google.com/presentation/d/1Id8aci_QyebNBM_6HJW51mTm3qqctYFIjUEEuWuz5w0/edit?usp=sharing)
