@@ -33,13 +33,15 @@ verschärft sich diese Situation erneut und es kommen viele Menschen nach Deutsc
 Hürden konfrontiert sehen.
 
 ## 3. Wie wollen wir es angehen?
+Vorab: Unsere Visionen, bisher gemachte Arbeit und Umsetzungen lassen sich unter [Implementierung](https://github.com/MESH-H07/docs#5-implementierung) finden.
+
 Wir glauben, dass einer der wichtigsten Faktoren für die Integration __persönlicher Kontakt__ ist!
 Eine vertraute und nahbare Ansprechperson zu haben ist wesentlich mehr wert, als kalte Fakten von einer Informationsstelle vorgekaut zu bekommen.
 
 Deshalb wollen wir eben nicht nur einfach plump Informationen bereitstellen, sondern eine Plattform schaffen
 für den sozialen Austausch und das Zusammenkommen, speziell zwischen Migraten und hilfsbereiten Mentoren.
 
-Wir sehen für Einwanderer folgende drei Hürden:
+Wir sehen für Einwanderer hauptsächlich folgende drei Hürden:
   1) Sprache
   2) Bürokratie
   3) Alltag und Zusammenleben
