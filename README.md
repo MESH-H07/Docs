@@ -135,4 +135,4 @@ Aber auch Erstanlaufstellen oder zentrale soziale Einrichtungen sollen dazu genu
 das Program näher zu bringen.
 
 ## 9. Weitere Ressourcen
-- [Pitchdeck](https://docs.google.com/presentation/d/1Id8aci_QyebNBM_6HJW51mTm3qqctYFIjUEEuWuz5w0/edit?usp=sharing)
+- [Pitchdeck](https://docs.google.com/presentation/d/1Vy51eW4PTtHmCKXb5xihomuwhy_h544h445aNsePjCk/edit?usp=sharing)
